@@ -1,1 +1,4 @@
-contents
+This is a file that we are going to add to git.
+
+We will use Git to record all of the versions of this file letting us move back and forth through 
+time.
